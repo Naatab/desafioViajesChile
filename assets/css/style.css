@@ -1,0 +1,27 @@
+.body {
+    font-family: "raleway", "open sans";
+}
+
+
+#quienesSomos,
+#destacados,
+#contacto,
+#destacados,
+.tarjetas {
+    background-color: rgb(2, 2, 2);
+}
+
+.fondoIcono,
+.fondoParrafo,
+.botonEnviar,
+footer {
+    background-color: rgb(76, 223, 253);
+}
+
+footer {
+    font-size: 1rem;
+}
+
+html{
+    scroll-behavior: smooth;
+}
